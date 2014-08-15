@@ -1,1 +1,1 @@
-1. Explain what git clone does, in your words
+Git clone - creates a a local copy of the code provided by another developer
