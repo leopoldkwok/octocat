@@ -1,0 +1,1 @@
+Branches are used to develop new features in isolation from the master branch and at a later change will be merged back to the master branch upon completion. 

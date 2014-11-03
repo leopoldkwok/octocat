@@ -1,1 +1,0 @@
-1. Explain what git clone does, in your words
