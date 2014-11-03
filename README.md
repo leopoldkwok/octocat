@@ -1,5 +1,5 @@
 Week 2 Challenge - Octocat
-==========================
+===========================
 
 This repositoy was created for the Makers Academy Week 2 challenge, which related to using Git and GitHub.
 
